@@ -1,5 +1,5 @@
 import './App.css';
-import AnalyticsTable from './components/display';
+import AnalyticsTable from './components/datatable';
 
 function App() {
   return (
